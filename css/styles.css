@@ -1,5 +1,9 @@
 /* Your code goes here, if needed */
-
+@media screen and (max-width: 575.98px) {
+    .col-3 {
+      flex: 50%;
+    }
+  }
 
 
 /* DO NOT CHANGE CODE BELOW THIS LINE */
